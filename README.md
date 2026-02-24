@@ -15,6 +15,12 @@
 * **The Performance Athlete:** Needs high-protein meal automation for training cycles.
 * **The Allergy-Conscious User:** Needs 100% certainty that recipes are gluten/nut-free.
 
+* **The Religious User:**
+For Halal/Kosher users.
+
+* **The Ethical Eater:**
+For Vegans and Vegitarians.
+
 ## 2. Team Workflow
 **Definition of Done (DoD):**
 * Code passes linting/formatting.
